@@ -5,5 +5,3 @@ Aggiornato: script.js ora prova a scoprire automaticamente un modello funzionant
 Note importanti:
 - La demo inserisce la API Key direttamente nel client: NON farlo in produzione. Rigenera la chiave dopo la consegna.
 - Se riscontri ancora problemi, apri la Console (F12) e cerca i log di "Lista modelli" o gli errori HTTP.
-
-Deployment: come prima (GitHub Pages).
