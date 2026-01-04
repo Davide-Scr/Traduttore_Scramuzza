@@ -50,7 +50,7 @@ function sanitizeMarkdown(s){
   return s.trim();
 }
 
-// ======== PROMPT ENGINEERING (modificato for source/target) ========
+// ======== PROMPT ENGINEERING (modificato per source/target) ========
 function buildPrompt(text, srcLang, tgtLang){
   const trimmed = (text || "").trim();
   const srcPart = (srcLang && srcLang !== 'Auto') ? (`dal ${srcLang} a ${tgtLang}`) : (`in ${tgtLang}`);
