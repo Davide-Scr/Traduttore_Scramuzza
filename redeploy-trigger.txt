@@ -1,0 +1,1 @@
+Redeploy triggered by Copilot on 2026-01-05T00:00:00Z to force GitHub Pages certificate provisioning.
